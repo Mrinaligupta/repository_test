@@ -7,6 +7,24 @@
     <documentationStatus xmi:id="_0DMP8H3aEeiVPN9ot6hTtg" label="unchecked" code="UCK"/>
     <documentationStatus xmi:id="_0DMP8X3aEeiVPN9ot6hTtg" label="checked" code="CHK"/>
     <documentationStatus xmi:id="_0DMP8n3aEeiVPN9ot6hTtg" label="validated" code="VAL"/>
+    <ItemsRelations xmi:id="_LXPd4H3eEeiVPN9ot6hTtg">
+      <baseItem xmi:id="_LXPd4X3eEeiVPN9ot6hTtg" id="_MefPQH3dEeiVPN9ot6hTtg" version="0.1" type="job"/>
+      <relatedItems xmi:id="_LXPd4n3eEeiVPN9ot6hTtg" id="SQLike" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_LXPd433eEeiVPN9ot6hTtg" id="Numeric" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_LXPd5H3eEeiVPN9ot6hTtg" id="TalendString" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_LXPd5X3eEeiVPN9ot6hTtg" id="DataMasking" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_LXPd5n3eEeiVPN9ot6hTtg" id="DataOperation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_LXPd533eEeiVPN9ot6hTtg" id="StringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_LXPd6H3eEeiVPN9ot6hTtg" id="TalendDataGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_LXPd6X3eEeiVPN9ot6hTtg" id="DqStringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_LXPd6n3eEeiVPN9ot6hTtg" id="TalendDate" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_LXPd633eEeiVPN9ot6hTtg" id="DataQuality" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_LXPd7H3eEeiVPN9ot6hTtg" id="Mathematical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_LXPd7X3eEeiVPN9ot6hTtg" id="Relational" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_LXPd7n3eEeiVPN9ot6hTtg" id="DQTechnical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_LXPd733eEeiVPN9ot6hTtg" id="TalendStringUtil" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_LXPd8H3eEeiVPN9ot6hTtg" id="DataQualityDependencies" version="Latest" type="routine"/>
+    </ItemsRelations>
     <migrationTask xmi:id="_0BuQUH3aEeiVPN9ot6hTtg" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_0BuQUX3aEeiVPN9ot6hTtg" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_0Bu3YH3aEeiVPN9ot6hTtg" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
