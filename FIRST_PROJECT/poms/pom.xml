@@ -12,6 +12,7 @@
     <module>code/routines</module>
     <module>jobs/process/di_advanced_svn_0.1</module>
     <module>jobs/process/transferr_0.1</module>
+    <module>jobs/process/bigfiles_0.1</module>
   </modules>
   <properties>
     <talend.project.name>FIRST_PROJECT</talend.project.name>
