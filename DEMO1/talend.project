@@ -187,6 +187,9 @@
       <relatedItems xmi:id="_oHQEL6RlEeiej-q4t3p1WA" id="MDM" version="Latest" type="routine"/>
       <relatedItems xmi:id="_oHQEMKRlEeiej-q4t3p1WA" id="TalendStringUtil" version="Latest" type="routine"/>
     </ItemsRelations>
+    <deletedFolders>process/MDM/REFERENCE_FILES/MATCHING</deletedFolders>
+    <deletedFolders>process/MDM/REFERENCE_FILES</deletedFolders>
+    <deletedFolders>process/MDM</deletedFolders>
     <migrationTask xmi:id="_zzZpQKRiEeiej-q4t3p1WA" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_zzZpQaRiEeiej-q4t3p1WA" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_zzaQUKRiEeiej-q4t3p1WA" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
