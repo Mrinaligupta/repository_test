@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_oDK1EKRlEeiej-q4t3p1WA" confirmationNeeded="false" name="Default">
+    <contextParameter xmi:id="_oDK1EaRlEeiej-q4t3p1WA" comment="" name="HOST" prompt="HOST?" promptNeeded="false" type="id_String" value="df-dev-pg.ckmhk1uqpaeb.us-west-2.rds.amazonaws.com"/>
+    <contextParameter xmi:id="_oDK1EqRlEeiej-q4t3p1WA" comment="" name="DATABASE" prompt="DATABASE?" promptNeeded="false" type="id_String" value="industry_reference"/>
+    <contextParameter xmi:id="_oDK1E6RlEeiej-q4t3p1WA" comment="" name="PORT" prompt="PORT?" promptNeeded="false" type="id_String" value="5432"/>
+    <contextParameter xmi:id="_oDK1FKRlEeiej-q4t3p1WA" comment="" name="USERNAME" prompt="USERNAME?" promptNeeded="false" type="id_String" value="postgres"/>
+    <contextParameter xmi:id="_oDK1FaRlEeiej-q4t3p1WA" comment="" name="PASSWORD" prompt="PASSWORD?" promptNeeded="false" type="id_Password" value="fP9gdbzq6egBUgsHg27+Ka9vFsQum61h33qV1prY49u8rk2PZFtNDNhPUZ1OYbuO"/>
+    <contextParameter xmi:id="_oDK1FqRlEeiej-q4t3p1WA" comment="" name="zookeeper_host" prompt="zookeeper_host?" promptNeeded="false" type="id_String" value="&quot;10.2.102.159:2181,10.2.112.14:2181,10.2.122.106:2181&quot;"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_oDK1F6RlEeiej-q4t3p1WA" confirmationNeeded="false" name="local">
+    <contextParameter xmi:id="_oDK1GKRlEeiej-q4t3p1WA" comment="" name="HOST" prompt="HOST?" promptNeeded="false" type="id_String" value="localhost"/>
+    <contextParameter xmi:id="_oDK1GaRlEeiej-q4t3p1WA" comment="" name="DATABASE" prompt="DATABASE?" promptNeeded="false" type="id_String" value="industry_reference"/>
+    <contextParameter xmi:id="_oDK1GqRlEeiej-q4t3p1WA" comment="" name="PORT" prompt="PORT?" promptNeeded="false" type="id_String" value="5432"/>
+    <contextParameter xmi:id="_oDK1G6RlEeiej-q4t3p1WA" comment="" name="USERNAME" prompt="USERNAME?" promptNeeded="false" type="id_String" value="postgres"/>
+    <contextParameter xmi:id="_oDK1HKRlEeiej-q4t3p1WA" comment="" name="PASSWORD" prompt="PASSWORD?" promptNeeded="false" type="id_Password" value="fP9gdbzq6egBUgsHg27+Ka9vFsQum61h33qV1prY49u8rk2PZFtNDNhPUZ1OYbuO"/>
+    <contextParameter xmi:id="_oDK1HaRlEeiej-q4t3p1WA" comment="" name="zookeeper_host" prompt="zookeeper_host?" promptNeeded="false" type="id_String" value=""/>
+  </talendfile:ContextType>
+</xmi:XMI>
