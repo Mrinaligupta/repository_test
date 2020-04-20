@@ -11,6 +11,15 @@
   <modules>
     <module>code/routines</module>
     <module>code/beans</module>
+    <module>jobs/process/edit_second_of_university_url_0.1</module>
+    <module>jobs/process/final/job_setup_001_databasecreation_0.1</module>
+    <module>jobs/process/final/job_setup_002_sourcetablescreation_0.1</module>
+    <module>jobs/joblets/display_logs_0.1</module>
+    <module>jobs/joblets/jblet_nsrt_email_logs_processing_0.1</module>
+    <module>jobs/joblets/logerror_0.1</module>
+    <module>jobs/process/second_of_university_url_0.1</module>
+    <module>jobs/process/final/job_analytics_002_targettablespopulation_0.1</module>
+    <module>jobs/process/xml_of_second_of_university_url_0.1</module>
   </modules>
   <properties>
     <talend.project.name>PROJECT_VALID_URLS</talend.project.name>
